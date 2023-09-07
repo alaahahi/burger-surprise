@@ -1,1 +1,1 @@
-firebase deploy --only hosting farah-ngo
+firebase deploy --only hosting burger-surprise
